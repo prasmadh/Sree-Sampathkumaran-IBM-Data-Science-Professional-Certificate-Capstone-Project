@@ -1,14 +1,14 @@
 # This repository contains my submissions for the IBM Data Science Professional Certificate.
 
-# The overall objectives of the project were to collect data about SpaceX Falcon 9 rocket launches from public sources, and build a Machine Learning pipeline to predict launch success. 
+# The overall objectives of the project were to collect data about SpaceX Falcon 9 rocket launches from public sources and build a Machine Learning pipeline to predict launch success. 
 
-# It includes multiple Jupyter notebooks showing the project objectives and my Python code leveraging various libraries/packages such as Pandas, Numpy, SKLEearn, Plotly, etc. to meet these objectives. 
+# It includes multiple Jupyter notebooks showing the project objectives and my Python code leveraging various libraries/packages such as Pandas, Numpy, SKLeearn, Plotly, etc. to meet these objectives. 
 
 # The project involved the following sequential steps:
 
 #   1. Collect data from the SpaceX API; parse the data and create a Pandas dataframe - use requests and helper functions to get data, normalize the json, create the dataframe and handle missing values
 
-#   2. Collect data (using web scraping) from Wikipedia about SpaceX Falcon 9 launches and create a Pandas dataframe - use requests, Beautiful Soup and helper functions to get the data and create the dataframe
+#   2. Collect data (using web scraping) from Wikipedia about SpaceX Falcon 9 launches and create a Pandas dataframe - use requests, Beautiful Soup and helper functions to get the data, parse the HTML data and create the dataframe
 
 #   3. Data wrangling to get a basic understanding of the data and to create the training label (Launch Success/Failure) - use Pandas & Numpy to understand the available data
 
