@@ -2,7 +2,7 @@
 
 # The overall objectives of the project were to collect data about SpaceX Falcon 9 rocket launches from public sources and build a Machine Learning pipeline to predict launch success. 
 
-# It includes multiple Jupyter notebooks showing the project objectives and my Python code leveraging various libraries/packages such as Pandas, Numpy, SKLeearn, Plotly, etc. to meet these objectives. 
+# It includes multiple Jupyter notebooks showing the project objectives and my Python code leveraging various libraries/packages such as Pandas, Numpy, SKLearn, Plotly, etc. to meet these objectives. 
 
 # The project involved the following sequential steps:
 
