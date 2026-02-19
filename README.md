@@ -16,11 +16,11 @@
 
 #   5. Interactive Visual Analysis & Dashboard Development - use Folium, Plotly & Dash to enable direct data exploration, identify patterns more effectively and prepare the data for effective story telling
 
-#   6. Construct a Machine Learning Pipeline to predict launch success - use SciKit Learn & Seaborn to preprocess the data, split the dataset into training & testing samples, develop multiple models and optimize them using hyperparameters
+#   6. Construct a Machine Learning Pipeline to predict launch success - use SciKit Learn to preprocess the data, split the dataset into training & testing samples, develop multiple models and optimize them using hyperparameters
 
 #      Specific SKLearn components used include: 
-#        a) Preprocessing (StandardScaler) to standardize the data
+#        a) preprocessing (StandardScaler) to standardize the data
 #        b) train_test_split to create and appropriately stratify the training and testing datasets
 #        c) 4 specific modeling techniques - Logistic Regression, Support Vector Machines (SVM), Decision Tree Classifier and K-Nearest Neighbors (KNN)
 #        d) GridSearchCV to test various hyperparameters to optimize the models
-#        e) Metrics (Confusion Matrix, accuracy, precision, etc.) to evaluate the various models and identify the best model
+#        e) metrics (Confusion Matrix, accuracy, precision, etc.) to evaluate the various models and identify the best model
